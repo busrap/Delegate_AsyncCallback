@@ -1,0 +1,19 @@
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\OOP\Ahmet hoca oop\Delegate_11\Delegate_11\bin\Debug\Delegate_11.exe.config
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\OOP\Ahmet hoca oop\Delegate_11\Delegate_11\bin\Debug\Delegate_11.exe
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\OOP\Ahmet hoca oop\Delegate_11\Delegate_11\bin\Debug\Delegate_11.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\OOP\Ahmet hoca oop\Delegate_11\Delegate_11\obj\Debug\Delegate_11.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\OOP\Ahmet hoca oop\Delegate_11\Delegate_11\obj\Debug\Delegate_11.Form1.resources
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\OOP\Ahmet hoca oop\Delegate_11\Delegate_11\obj\Debug\Delegate_11.Properties.Resources.resources
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\OOP\Ahmet hoca oop\Delegate_11\Delegate_11\obj\Debug\Delegate_11.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\OOP\Ahmet hoca oop\Delegate_11\Delegate_11\obj\Debug\Delegate_11.exe
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\OOP\Ahmet hoca oop\Delegate_11\Delegate_11\obj\Debug\Delegate_11.pdb
+E:\Çalışmalar\A_MY\OOP\Ahmet hoca oop\Delegate_11_Asenkron Call\Delegate_11\bin\Debug\Delegate_11.exe.config
+E:\Çalışmalar\A_MY\OOP\Ahmet hoca oop\Delegate_11_Asenkron Call\Delegate_11\bin\Debug\Delegate_11.exe
+E:\Çalışmalar\A_MY\OOP\Ahmet hoca oop\Delegate_11_Asenkron Call\Delegate_11\bin\Debug\Delegate_11.pdb
+E:\Çalışmalar\A_MY\OOP\Ahmet hoca oop\Delegate_11_Asenkron Call\Delegate_11\obj\Debug\Delegate_11.csprojAssemblyReference.cache
+E:\Çalışmalar\A_MY\OOP\Ahmet hoca oop\Delegate_11_Asenkron Call\Delegate_11\obj\Debug\Delegate_11.Form1.resources
+E:\Çalışmalar\A_MY\OOP\Ahmet hoca oop\Delegate_11_Asenkron Call\Delegate_11\obj\Debug\Delegate_11.Properties.Resources.resources
+E:\Çalışmalar\A_MY\OOP\Ahmet hoca oop\Delegate_11_Asenkron Call\Delegate_11\obj\Debug\Delegate_11.csproj.GenerateResource.cache
+E:\Çalışmalar\A_MY\OOP\Ahmet hoca oop\Delegate_11_Asenkron Call\Delegate_11\obj\Debug\Delegate_11.csproj.CoreCompileInputs.cache
+E:\Çalışmalar\A_MY\OOP\Ahmet hoca oop\Delegate_11_Asenkron Call\Delegate_11\obj\Debug\Delegate_11.exe
+E:\Çalışmalar\A_MY\OOP\Ahmet hoca oop\Delegate_11_Asenkron Call\Delegate_11\obj\Debug\Delegate_11.pdb
